@@ -1,0 +1,7 @@
+{
+  "name": "Ju-Fat Cell - Kasir & POS Multi-Layanan",
+  "description": "Aplikasi Kasir & POS Multi-Layanan untuk Ju-Fat Cell: Penjualan ATK, Service HP, PPOB & Pulsa, Percetakan, Transfer Bank, Manajemen Shift, Piutang, dan Arus Kas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
